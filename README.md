@@ -1,5 +1,7 @@
 # I Learn
 
+Deploy 1.0.0
+
 ### Commit Conventions
 
 | Message | 설명 |
